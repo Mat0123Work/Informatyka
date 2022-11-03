@@ -85,7 +85,7 @@ print("Zad 4.1 wynik:")
 zad4_1()
 print("Mialo byc: 10")
 
-## Te 
+## Te poniżej jeszcze nie są skończone, więc printują 'nie skończone!'
 
 print("Zad 4.2 wynik:")
 zad4_2()
