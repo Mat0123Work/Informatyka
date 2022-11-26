@@ -1,0 +1,12 @@
+6.1
+Polska			11
+Stany Zjednoczone	8
+Francja			7
+Niemcy			6
+Rosja
+			6
+6.2
+555	ciemny elf
+435	elfi czarodziej
+1815	lesny elf
+870	wysoki elf-gwardzista
