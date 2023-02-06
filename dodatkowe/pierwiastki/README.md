@@ -20,5 +20,5 @@ Odpowiedzią będzie:
 
 Ponieważ pierwiastkami liczb całkowitych są tutaj: 
 ```
-1 = 1\*1, 4 = 2\*2, 16 = 4\*4, 25 = 5\*5
+1 = 1*1, 4 = 2*2, 16 = 4*4, 25 = 5*5
 ```
