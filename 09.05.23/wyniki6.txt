@@ -1,0 +1,25 @@
+ilosc 	Pojemnosc_dysku ZAD1
+173	300
+31	500
+31	200
+29	800
+28	700
+26	600
+20	400
+11	290
+10	220
+10	160
+
+Numer_komputera	Ilosc wymian ZAD2
+42	    	11
+123	    	11
+171	    	12
+202	     	12
+
+numer_zgloszenia czas naprawy                 czas_Awarii             zad4
+ 2087               13.11.2015 12:38:32 PM       06.11.2015 12:38:46 PM
+
+liczbę komputerów, które nie uległy żadnej awarii o priorytecie większym lub równym
+8 (wliczamy w to też komputery, które w ogóle nie uległy awarii). ZAD5
+
+149
